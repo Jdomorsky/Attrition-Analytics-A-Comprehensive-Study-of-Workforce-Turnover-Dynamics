@@ -1,5 +1,5 @@
 ---
-# HR Analytics Dashboard
+# **Attrition Analytics: A Comprehensive Study of Workforce Turnover Dynamics**
 ---
 ## Table of Contents
 ---
