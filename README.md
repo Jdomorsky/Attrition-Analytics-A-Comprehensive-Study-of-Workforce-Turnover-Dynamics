@@ -63,7 +63,7 @@ Furthermore, the cleaned and processed dataset integrates seamlessly with analyt
 
 In the initial data preparation phase, I performed the following tasks:
 1. Data Loading and Inspection.
-2. Handling Missing Values,
+2. Handling Missing Values.
 3. Data Cleaning and Formatting.
 
 ---
